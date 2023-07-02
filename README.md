@@ -19,13 +19,13 @@ Ce rapport présentera les différentes étapes du développement du système em
 En conclusion, ce projet vise à intégrer un radar et une porte automatique dans un système embarqué pour renforcer la sécurité et la surveillance dans les prisons. Grâce à cette solution innovante, nous espérons contribuer à un environnement carcéral plus sécurisé et offrir aux agents pénitentiaires des outils avancés pour faire face aux défis croissants liés à la gestion des établissements pénitentiaires.
 
 # Image pour le projet :
-
+```
 
 ![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/22bfc6d9-4e31-4d36-a4e0-45d13a59c32a)
 
 
 ![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/9eca9294-5a7b-4555-8635-cd268035667b)
-
+```
 # Composant et matériels utiliser :
 ```
 1)Carte Arduino .
@@ -41,9 +41,9 @@ En conclusion, ce projet vise à intégrer un radar et une porte automatique dan
 
 ### On fait une sumilation avec Proteus :
 
-
+```
 ![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/ec07222c-c838-4193-93d8-29e09a8cc9e2)
-
+```
 # Fonctionement de Projet :
 Le capteur ultrasonique est utilisé pour estimer la distance entre les objets en émettant une onde sonore et en calculant le temps nécessaire à l'onde pour revenir après avoir heurté l'objet. Le servomoteur permet de faire pivoter le capteur ultrasonique sur un angle allant de 1 à 180 degrés, et inversement. À chaque position du servomoteur, la distance est mesurée et affichée sur le moniteur série à des fins de débogage.  
 Un système sonar lié à un radar doté d'une fonction de notification sonore est conçu pour détecter des objets et émettre un signal sonore lorsqu'il en repère un. Le sonar utilise des ondes sonores pour détecter les objets environnants, en émettant des signaux acoustiques et en écoutant les échos résultants. Le radar, quant à lui, utilise des ondes radio pour détecter les objets en mesurant les échos des signaux radio réfléchis par ces objets.
@@ -53,10 +53,10 @@ Une porte automatisée équipée d'un capteur infrarouge est conçue pour s'ouvr
  
 ### On fait une sumilation avec Matlab :
 
-
+```
 ![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/874a9fb9-afa8-49ff-91ca-c0ca4693a157)
 
-
+```
 # les Logiciels utiliser :
 1) Matlab .
 2) proteus .
