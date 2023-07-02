@@ -25,7 +25,7 @@ En conclusion, ce projet vise à intégrer un radar et une porte automatique dan
 ![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/9eca9294-5a7b-4555-8635-cd268035667b)
 
 # Composant et matériels utiliser :
-1)Carte Arduino .
+1)Carte Arduino . /n
 2)Deux Servo Moteur .
 3)Capteur Ultrasonique HC-SR04.
 4)Capteur infrarouge .
