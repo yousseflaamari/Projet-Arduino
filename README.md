@@ -20,7 +20,9 @@ En conclusion, ce projet vise à intégrer un radar et une porte automatique dan
 
 # Image pour le projet :
 
+
 ![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/22bfc6d9-4e31-4d36-a4e0-45d13a59c32a)
+
 
 ![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/9eca9294-5a7b-4555-8635-cd268035667b)
 
@@ -36,7 +38,10 @@ En conclusion, ce projet vise à intégrer un radar et une porte automatique dan
 8)Maquette Carton.
 ```
 # Architucture  :
-On fait une sumilation avec Proteus :
+
+### On fait une sumilation avec Proteus :
+
+
 ![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/ec07222c-c838-4193-93d8-29e09a8cc9e2)
 
 # Fonctionement de Projet :
@@ -45,8 +50,12 @@ Un système sonar lié à un radar doté d'une fonction de notification sonore e
 Une porte automatisée équipée d'un capteur infrarouge est conçue pour s'ouvrir et se fermer automatiquement en détectant la présence de personnes ou d'objets à proximité à l'aide d'un faisceau infrarouge. Lorsqu'une personne ou un objet traverse le faisceau infrarouge, le capteur détecte ce changement et envoie un signal pour déclencher l'ouverture de la porte.
 
  # Interface Matlab  :
-On fait une sumilation avec Matlab :
+ 
+### On fait une sumilation avec Matlab :
+
+
 ![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/874a9fb9-afa8-49ff-91ca-c0ca4693a157)
+
 
 # les Logiciels utiliser :
 1) Matlab .
