@@ -21,3 +21,36 @@ En conclusion, ce projet vise à intégrer un radar et une porte automatique dan
 # Image pour le projet :
 
 ![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/22bfc6d9-4e31-4d36-a4e0-45d13a59c32a)
+
+![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/9eca9294-5a7b-4555-8635-cd268035667b)
+
+# Composant et matériels utiliser :
+1)Carte Arduino .
+2)Deux Servo Moteur .
+3)Capteur Ultrasonique HC-SR04.
+4)Capteur infrarouge .
+5)Sonor .
+6)Files.
+7)Porte .
+8)Maquette Carton.
+# Architucture  :
+On fait une sumilation avec Proteus :
+![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/ec07222c-c838-4193-93d8-29e09a8cc9e2)
+
+# Fonctionement de Projet :
+Le capteur ultrasonique est utilisé pour estimer la distance entre les objets en émettant une onde sonore et en calculant le temps nécessaire à l'onde pour revenir après avoir heurté l'objet. Le servomoteur permet de faire pivoter le capteur ultrasonique sur un angle allant de 1 à 180 degrés, et inversement. À chaque position du servomoteur, la distance est mesurée et affichée sur le moniteur série à des fins de débogage.  
+Un système sonar lié à un radar doté d'une fonction de notification sonore est conçu pour détecter des objets et émettre un signal sonore lorsqu'il en repère un. Le sonar utilise des ondes sonores pour détecter les objets environnants, en émettant des signaux acoustiques et en écoutant les échos résultants. Le radar, quant à lui, utilise des ondes radio pour détecter les objets en mesurant les échos des signaux radio réfléchis par ces objets.
+Une porte automatisée équipée d'un capteur infrarouge est conçue pour s'ouvrir et se fermer automatiquement en détectant la présence de personnes ou d'objets à proximité à l'aide d'un faisceau infrarouge. Lorsqu'une personne ou un objet traverse le faisceau infrarouge, le capteur détecte ce changement et envoie un signal pour déclencher l'ouverture de la porte.
+
+ # Interface Matlab  :
+On fait une sumilation avec Matlab :
+![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/874a9fb9-afa8-49ff-91ca-c0ca4693a157)
+
+# les Logiciels utiliser :
+1) Matlab .
+2) proteus .
+3) Arduino Uno .
+   
+
+
+
