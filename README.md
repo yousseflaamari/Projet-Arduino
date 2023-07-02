@@ -19,3 +19,5 @@ Ce rapport présentera les différentes étapes du développement du système em
 En conclusion, ce projet vise à intégrer un radar et une porte automatique dans un système embarqué pour renforcer la sécurité et la surveillance dans les prisons. Grâce à cette solution innovante, nous espérons contribuer à un environnement carcéral plus sécurisé et offrir aux agents pénitentiaires des outils avancés pour faire face aux défis croissants liés à la gestion des établissements pénitentiaires.
 
 # Image pour le projet :
+
+![image](https://github.com/yousseflaamari/Projet-Arduino/assets/96209336/22bfc6d9-4e31-4d36-a4e0-45d13a59c32a)
